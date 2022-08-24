@@ -1,2 +1,2 @@
-# login-page
-simple login page with django framework
+# crash-course-CRM
+Django customer management platform
